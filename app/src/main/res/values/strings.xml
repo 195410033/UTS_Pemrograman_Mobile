@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simulasi Pinjaman Online</string>
+    <string name="jumlah_utang">Jumlah Pinjaman</string>
+    <string name="jumlah_hari_utang">Durasi Peminjaman</string>
+    <string name="estimasi_hutang">Durasi Pinjaman :</string>
+    <string name="harian_service">Harian</string>
+    <string name="bulanan_service">Bulanan</string>
+    <string name="ajukan_calculate">P I N J A M</string>
+    <string name="content_description_media">Gambar Hutang</string>
+    <string name="jumlah_hutang">%s</string>
+    <string name="jumlah_hari">Jumlah Hari : %s %s</string>
+    <string name="jumlah_bunga">Jumlah Bunga : %s</string>
+    <string name="todo">TODO</string>
+</resources>
